@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Stopwatch/*
+!/Simple Stopwatch/task/
+/Simple Stopwatch/task/*
+!/Simple Stopwatch/task/src
